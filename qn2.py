@@ -1,5 +1,5 @@
 
-# git link    https://github.com/veddahit/SoftwareNow_Assigmnet_3
+# git link    https://github.com/veddahit/SoftwareNow_Assigmnet_3/blob/main/qn2.py
 
 import pygame
 pygame.init()

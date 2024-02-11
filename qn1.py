@@ -1,3 +1,7 @@
+
+
+# git link    https://github.com/veddahit/SoftwareNow_Assigmnet_3/blob/main/qn1.py
+
 import tkinter as tk
 
 class CalculatorApp(tk.Tk):
